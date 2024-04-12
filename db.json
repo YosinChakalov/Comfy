@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "status": false,
+      "img": "Rectangle41.png",
+      "name": "High-Back Bench",
+      "price": 9.99
+    },
+    {
+      "id": 2,
+      "status": false,
+      "img": "Rectangle42.png",
+      "name": "Utopia Sofa",
+      "price": 39.95
+    },
+    {
+      "id": 3,
+      "status": false,
+      "img": "Rectangle43.png",
+      "name": "Entertainment Center",
+      "price": 29.98
+    }
+  ]
+}
