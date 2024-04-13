@@ -89,6 +89,7 @@ ul {
   display: flex;
   justify-content: space-between;
   margin: auto;
+  margin-top: 20px;
 }
 
 .menu_body h1 {
